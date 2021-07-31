@@ -95,17 +95,10 @@ submitted this project on Science day on 28.02.2020
 -DateofBirth/Age:04-07-2002/19yrs.
 -LanguagesKnown:English,Tamil,Telugu.
 -Hobbies :Listeningmusic,Drawing,Readingbooks. Place:Kovilpatti
-Signatur
 
-1. Numbered
-3. List
 
-**Bold** and _Italic_ and `Code` text
 
-[Link](url) and ![Image](src)
-```
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
 ### Jekyll Themes
 
