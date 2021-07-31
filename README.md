@@ -1,11 +1,6 @@
-## Welcome to GitHub Pages
-
-You can use the [editor on GitHub](https://github.com/abiseeni/S.ABINAYASRI/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
+## My Resume
 S.ABINAYASRI
+
 Address:4/499chakarabaninagar,
 GVNcollegepost,Newappaneri,
 Kovilpatti-628502
@@ -13,6 +8,11 @@ Thoothukudi
 PhoneNumber:9944064032
 Emailid:953619105001@ritrjpm.ac.in
 LinkedIn:https://www.linkedin.com/in/abinayasri-sidhu-3407361b5
+
+
+
+### Markdown
+
 CARRER OBJECTIVE:
 
 Tosecureapositionintheengineeringfield, anumberofdifferentindustriestodevelop,
@@ -21,24 +21,21 @@ research,design,andsupervisetheinstallationofvariouselectricalsystems
 ```markdown
 Syntax highlighted code block
 ACADEMICPERFORMANCE:
-DEGREE COLLEGE&
-UNIVERSITY/SCHOOL
-YEAROF
-PASSING
-PERCENTAGE/
-CGPA
-B.EEEE RAMCOINSTITUTE
+
+DEGREE COLLEGE&           YEAROF           PERCENTAGe
+UNIVERSITY/SCHOOL        PASSING
+
+B.E/EEE RAMCOINSTITUTE     2023                8.77
 OFTECHNOLOGY
-2023 8.77
-(uptoIIIsem)
-HSC
+
+HSC                        2019                75.6%
 NOBLE
 matric.Hr.Sec.School
-2019 75.6%
-SSLC
+
+SSLC                       2017                97.25     
 TheLakshmi
 mills.hr.sec.school
-2017 97.25
+
 
 # Header 1
 ## Header 2
