@@ -1,28 +1,16 @@
 ## My Resume
-S.ABINAYASRI
-
-Address:4/499chakarabaninagar,
-GVNcollegepost,Newappaneri,
-Kovilpatti-628502
-Thoothukudi
-PhoneNumber:9944064032
-Emailid:953619105001@ritrjpm.ac.in
-LinkedIn:https://www.linkedin.com/in/abinayasri-sidhu-3407361b5
 
 
+### **CARRER OBJECTIVE**:
 
-### Markdown
-
-**CARRER OBJECTIVE**:
-
-Tosecureapositionintheengineeringfield, anumberofdifferentindustriestodevelop,
-research,design,andsupervisetheinstallationofvariouselectricalsystems
+To secure a position in the engineering field, a number of different industries to develop,
+research,design,and super vise the installation of various electrical systems
 
 ```markdown
 S.ABINAYASRI
 
-**Address**:     4/499chakarabaninagar,
-                 GVNcollegepost,Newappaneri,
+**Address**:     4/499 chakarabani nagar,
+                 GVN collegepost,Newappaneri,
                  Kovilpatti-628502
                  Thoothukudi
 **PhoneNumber**: 9944064032
@@ -53,20 +41,21 @@ mills.hr.sec.school
 
 ## COURSESDONE:
 
--Completedonlinecourseon“SolvetheproblemsonJavaprogramming”
-offeredbyDukeuniversitythroughcoursera.  Completedonlinecourseon“AIForEveryone”offeredbydeeplearning.ai
-throughcoursera
-- Completedonlinecourseon“IntroductiontoHTML5“offeredbyUniversity
+-Completed online course on “Solve the problems on Javaprogramming”
+offered by Duke university through coursera.
+-Completed online course on “AI For Everyone” offered by deeplearning.ai
+through  coursera
+- Completed online curse“IntroductiontoHTML5“offeredbyUniversity
 ofMICHIGANthroughcoursera
-- Completedonlinecourseon“MachinelearninginPython“offeredby
+- Completed online course on “Machine learning in Python“ offered by
 greatlearning.
-- Completedonlinecourseon”Electricvehicles”offeredbyDelftuniversity
-throughedx.
-- Completedonlinecourseon”DatastructuresandAlgorithms”offeredby
-InfyTq.
-- Completedonlinecourseon“BasicsofMySql”offeredbygreatlearning.
-- Completedonlinecourseon“webdevelopment”offeredbyhoperaiser.
-- Completedonlinecourseon”Bootstrap”offeredbyhoperaiser
+- Completed online course on”Electric vehicles”offered by Delft university
+ through edx.
+- Completed online course on”Data structures and Algorithms”offered by
+  InfyTq.
+- Completed online courseon “Basics of MySql” offered by greatlearning.
+- Completed online course on “webdevelopment” offered by hoperaiser.
+- Completed online course on ”Bootstrap” offered by hoperaiser.
 
 # PROJECT DETAILS:
 
@@ -76,34 +65,33 @@ and LED connected in the Mq3sensor we can get alert from them. We
 submitted this project on Science day on 28.02.2020
 
 # WORKSHOP:
--Attendingworkshopon“ComputerNetworking”conductedbyRamco InstituteofTechnology
--Attendingworkshopon“3DPrintingthroughSoftware”conductedbyRamcoinstituteoftechnology
+-Attending workshop on “Computer Networking” conducted by Ramco Institute of Technology
+-Attending workshop on “3D Printing through Software” conducted by Ramco institute of Technology
+
 # CO-CURRICULARACHIEVEMENTS:
--ParticipateinTechnicalpresentationonthetopicof”Smartgrid”andalso”ElectricHybridvechicles”
--Won1stprizeinTennikoitconductedbyRamcoInstituteofTechnologyforSportsdayevent.
+-Participate in Technical presentation on the topic of ”Smartgrid” and also ”Electric Hybridv echicles”
+-Won 1st prize in Tennikoit conducted by Ramco Institute of Technology for Sports day event.
+
 # EXTRA-CURRICULARACHIEVEMENTS:
--TreasuryatISTE
--EventcoordinatorinIEEE
+-Treasury at ISTE
+-Event coordinator in IEEE
+
 # MEMBERSHIP:
-- IndianSocietyofTechnicalEducation(ISTE)
+- Indian Society of Technical Education(ISTE)
 - IEEE
 - NSS
+
 # INTERNSHIP:
--CompletedtheInternshipon“ArtificialIntelligence”conductedbyIUCTE.
--CompletedtheInternshipon”InternetofThings”conductedbyEntupleTechnologies.
+-Completed the Internship on “Artificial Intelligence” conducted by IUCTE.
+-Completed the Internship on ”InternetofThings” conducted by Entuple Technologies.
+
 # PERSONALDETAILS:
--DateofBirth/Age:04-07-2002/19yrs.
--LanguagesKnown:English,Tamil,Telugu.
--Hobbies :Listeningmusic,Drawing,Readingbooks. Place:Kovilpatti
+-DateofBirth/Age: 04-07-2002/19yrs.
+-LanguagesKnown: English,Tamil,Telugu.
+-Hobbies :  Listeningmusic,Drawing,Readingbooks. Place:Kovilpatti
 
 
 
 
 
-### Jekyll Themes
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/abiseeni/S.ABINAYASRI/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
